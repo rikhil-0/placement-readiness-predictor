@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://placement-readiness-predictor-w8wd.onrender.com/api/:path*"
+    }
+  ]
+}
