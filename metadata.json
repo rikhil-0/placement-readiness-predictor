@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Placement Readiness Predictor",
+  "description": "An AI-powered placement readiness web application offering profile builders, coding assessments, resume analysis, AI mock interviews, and skill-gap roadmap generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
